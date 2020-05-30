@@ -1,0 +1,22 @@
+{
+    "name": "icon256",
+    "version": "1.2.4",
+    "description": "Extract 256x256 icon png from a file",
+    "main": "index.js",
+    "scripts": {
+        "build": "csc -unsafe extractor.cs",
+        "postinstall": "csc -unsafe extractor.cs"
+    },
+    "keywords": [
+        "exe",
+        "icon",
+        "extractor",
+        "256x256",
+        "png",
+        "jumbo",
+        "base64",
+        "Windows"
+    ],
+    "author": "Loekaars",
+    "license": "ISC"
+}
