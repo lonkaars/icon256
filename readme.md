@@ -2,6 +2,8 @@
 
 > This package only works on Windows
 
+![npm](https://img.shields.io/npm/v/icon256)
+
 ## What is this
 
 This is a module that can extract 256x256 icon from a file/executable, as a base64 png.
